@@ -1,0 +1,19 @@
+# Secret keys - NEVER commit
+backend/.env
+
+# Python cache
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+
+# Test files
+backend/test_*.py
+
+# Node modules
+frontend/node_modules/
+frontend/dist/
+
+# Misc
+.DS_Store
+*.log
+sample_logs/
