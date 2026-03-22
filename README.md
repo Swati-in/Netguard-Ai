@@ -14,9 +14,8 @@
 
 | Service | Link |
 |---|---|
-| 🖥️ Dashboard | [Frontend on Vercel](#) |
-| ⚙️ API Docs | [Backend on Railway](#) |
-
+| 🖥️ Dashboard | [Frontend on Vercel](https://netguard-ik6r6to8z-swatis-projects-1b5f07db.vercel.app) |
+| ⚙️ API Docs | [Backend on Render](https://netguard-ai-backend.onrender.com/docs) |
 ---
 
 ## 🧠 Architecture
