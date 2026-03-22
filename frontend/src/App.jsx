@@ -5,7 +5,7 @@ import AlertFeed from "./components/AlertFeed"
 import ThreatChart from "./components/ThreatChart"
 import LogTable from "./components/LogTable"
 
-const API = "http://127.0.0.1:8000"
+const API = "https://netguard-ai-backend.onrender.com"
 
 export default function App() {
   const [stats, setStats] = useState({ total: 0, critical: 0, warning: 0, normal: 0, by_category: [] })
